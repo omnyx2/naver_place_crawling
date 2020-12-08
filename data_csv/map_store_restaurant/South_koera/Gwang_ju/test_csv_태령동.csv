@@ -1,0 +1,5 @@
+id,rank,name,tel,category,address,roadAddress,abbrAddress,display,coordX,coordY,description,blogReviewNum,ttime_open,ttime_close,ttime_desc,menu
+s19643085,1,미향식당,,"['음식점', '한식']",광주광역시 북구 태령동 158-3,광주광역시 북구 민주로 448,태령동 158-3,미향<b>식당</b>,126.9264250,35.2472167,,none_review_num,none_open,none_close,none_desc,[]
+s1695450204,2,태령영양추어탕,,"['한식', '추어탕']",광주광역시 북구 태령동 340,광주광역시 북구 태령학림길 4,태령동 340,태령영양추어탕,126.9272652,35.2511452,,none_review_num,none_open,none_close,none_desc,[]
+s19643085,1,미향식당,,"['음식점', '한식']",광주광역시 북구 태령동 158-3,광주광역시 북구 민주로 448,태령동 158-3,미향<b>식당</b>,126.9264250,35.2472167,,none_review_num,none_open,none_close,none_desc,[]
+s1695450204,2,태령영양추어탕,,"['한식', '추어탕']",광주광역시 북구 태령동 340,광주광역시 북구 태령학림길 4,태령동 340,태령영양추어탕,126.9272652,35.2511452,,none_review_num,none_open,none_close,none_desc,[]
